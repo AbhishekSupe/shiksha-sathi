@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shiksha-sathi/static/css/main.e6c13ad2.css",
+    "main.js": "/shiksha-sathi/static/js/main.1530448d.js",
+    "static/js/453.ed9d58d2.chunk.js": "/shiksha-sathi/static/js/453.ed9d58d2.chunk.js",
+    "static/media/shiksha-sarthi-logo.png": "/shiksha-sathi/static/media/shiksha-sarthi-logo.4d55fbcd145edf25605e.png",
+    "index.html": "/shiksha-sathi/index.html",
+    "main.e6c13ad2.css.map": "/shiksha-sathi/static/css/main.e6c13ad2.css.map",
+    "main.1530448d.js.map": "/shiksha-sathi/static/js/main.1530448d.js.map",
+    "453.ed9d58d2.chunk.js.map": "/shiksha-sathi/static/js/453.ed9d58d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1530448d.js"
+  ]
+}
